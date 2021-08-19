@@ -1,6 +1,6 @@
 # hello
 Hello python app
-##Install
+## Install
 ```bash
 git clone https://github.com/holovin777/hello.git
 cd hello
